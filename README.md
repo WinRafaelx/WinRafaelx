@@ -6,6 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [this site](http://winrafaelx.github.io/)
+* 📜  Or see my resume at [this site](https://myresume-98q.pages.dev/)
 * ✉️  You can contact me at [mawin.sct@gmail.com](mailto:mawin.sct@gmail.com)
 
 ### Skills
